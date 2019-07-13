@@ -1,3 +1,3 @@
 # Chess
-Game of chess implemented in C++ <b/r>
+Game of chess implemented in C++ <br>
 Coming soon
