@@ -1,5 +1,5 @@
 # Chess
-Game of Chess implemented in C++ <br>
+Built a 4-level chess engine in C++ <br>
 Coming soon
 
 
