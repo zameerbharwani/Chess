@@ -6,3 +6,12 @@ Unfortunately I cannot post any code due to university rules as this game was de
 Here is the graphical interface I designed using Xwindow
 ![GUI_XWindow](GUI.png)
 
+
+## Playing 
+
+The exectuable is provided and will only run on a linux machine
+```
+$ ./chess 
+
+and follow the questions on the screen
+```
