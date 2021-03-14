@@ -3,7 +3,7 @@ Built a 4-level chess engine in C++  using object oriented design patterns <br>
 
 Code access is private due to course restrictions.
 
-Here is the graphical interface I designed using Xwindow
+GUI using Xwindow:
 ![GUI_XWindow](GUI.png)
 
 
