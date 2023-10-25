@@ -1,5 +1,5 @@
 # Chess
-Built a 4-level chess engine in C++  using object oriented design patterns <br>
+Built a 4-level chess engine in C++ <br>
 
 Code access is private due to course restrictions.
 
